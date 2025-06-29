@@ -34,7 +34,7 @@ export function LanguageSelector() {
     return () => document.removeEventListener("mousedown", handleClickOutside);
   }, []);
 
-  const handleLanguageChange = (locale: string) => {
+  const handleLanguageChange = () => {
     setIsOpen(false);
   };
 
@@ -63,7 +63,7 @@ export function LanguageSelector() {
               key={language.code}
               href={pathname}
               locale={language.code}
-              onClick={() => handleLanguageChange(language.code)}
+              onClick={handleLanguageChange}
               className={`flex items-center gap-3 px-4 py-3 hover:bg-gray-50 transition-colors duration-200 ${
                 language.code === currentLocale ? 'bg-blue-50 text-blue-600' : 'text-gray-700'
               }`}

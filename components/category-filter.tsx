@@ -1,7 +1,5 @@
 "use client";
 
-import { useTranslations } from "next-intl";
-
 interface CategoryFilterProps {
   selectedCategory: string | null;
   onCategoryChange: (category: string | null) => void;
@@ -20,7 +18,6 @@ const categories = [
 ];
 
 export function CategoryFilter({ selectedCategory, onCategoryChange }: CategoryFilterProps) {
-  const t = useTranslations();
 
   return (
     <div className="flex flex-wrap gap-3 justify-center max-w-4xl mx-auto">

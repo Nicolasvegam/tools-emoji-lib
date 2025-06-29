@@ -17,7 +17,6 @@ interface EmojiCardProps {
 export function EmojiCard({ emoji }: EmojiCardProps) {
   const [copying, setCopying] = useState(false);
   const [favorite, setFavorite] = useState(false);
-  const [isHovered, setIsHovered] = useState(false);
   const t = useTranslations("common");
   const params = useParams();
   const locale = params.locale as string;
@@ -65,8 +64,6 @@ export function EmojiCard({ emoji }: EmojiCardProps) {
     <Link
       href={`/${locale}/emoji/${emoji.slug[locale as keyof typeof emoji.slug]}`}
       className="group relative block"
-      onMouseEnter={() => setIsHovered(true)}
-      onMouseLeave={() => setIsHovered(false)}
     >
       <div
         onClick={handleCopy}
