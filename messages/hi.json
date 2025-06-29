@@ -2,11 +2,19 @@
   "common": {
     "search": "इमोजी खोजें...",
     "copied": "कॉपी हो गया!",
+    "copy": "कॉपी करें",
     "copyToClipboard": "क्लिपबोर्ड पर कॉपी करें",
     "categories": "श्रेणियाँ",
     "allCategories": "सभी श्रेणियाँ",
     "relatedEmojis": "संबंधित इमोजी",
-    "shareEmoji": "इस इमोजी को साझा करें"
+    "shareEmoji": "इस इमोजी को साझा करें",
+    "addToFavorites": "पसंदीदा में जोड़ें",
+    "removeFromFavorites": "पसंदीदा से हटाएं",
+    "favorites": "पसंदीदा",
+    "home": "होम",
+    "noFavorites": "अभी तक कोई पसंदीदा नहीं",
+    "addedToFavorites": "पसंदीदा में जोड़ा गया!",
+    "removedFromFavorites": "पसंदीदा से हटाया गया"
   },
   "meta": {
     "title": "इमोजी खोज - इमोजी कॉपी और पेस्ट करें",

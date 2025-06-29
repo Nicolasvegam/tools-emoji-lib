@@ -2,11 +2,19 @@
   "common": {
     "search": "搜索表情符号...",
     "copied": "已复制！",
+    "copy": "复制",
     "copyToClipboard": "复制到剪贴板",
     "categories": "分类",
     "allCategories": "所有分类",
     "relatedEmojis": "相关表情",
-    "shareEmoji": "分享此表情"
+    "shareEmoji": "分享此表情",
+    "addToFavorites": "添加到收藏",
+    "removeFromFavorites": "从收藏中移除",
+    "favorites": "收藏",
+    "home": "首页",
+    "noFavorites": "暂无收藏",
+    "addedToFavorites": "已添加到收藏！",
+    "removedFromFavorites": "已从收藏中移除"
   },
   "meta": {
     "title": "表情符号搜索 - 复制和粘贴表情",

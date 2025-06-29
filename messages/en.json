@@ -2,11 +2,19 @@
   "common": {
     "search": "Search emojis...",
     "copied": "Copied!",
+    "copy": "Copy",
     "copyToClipboard": "Copy to clipboard",
     "categories": "Categories",
     "allCategories": "All Categories",
     "relatedEmojis": "Related Emojis",
-    "shareEmoji": "Share this emoji"
+    "shareEmoji": "Share this emoji",
+    "addToFavorites": "Add to favorites",
+    "removeFromFavorites": "Remove from favorites",
+    "favorites": "Favorites",
+    "home": "Home",
+    "noFavorites": "No favorites yet",
+    "addedToFavorites": "Added to favorites!",
+    "removedFromFavorites": "Removed from favorites"
   },
   "meta": {
     "title": "Emoji Search - Copy and Paste Emojis",

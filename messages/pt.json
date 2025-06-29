@@ -2,11 +2,19 @@
   "common": {
     "search": "Buscar emojis...",
     "copied": "Copiado!",
+    "copy": "Copiar",
     "copyToClipboard": "Copiar para área de transferência",
     "categories": "Categorias",
     "allCategories": "Todas as Categorias",
     "relatedEmojis": "Emojis Relacionados",
-    "shareEmoji": "Compartilhar este emoji"
+    "shareEmoji": "Compartilhar este emoji",
+    "addToFavorites": "Adicionar aos favoritos",
+    "removeFromFavorites": "Remover dos favoritos",
+    "favorites": "Favoritos",
+    "home": "Início",
+    "noFavorites": "Ainda não há favoritos",
+    "addedToFavorites": "Adicionado aos favoritos!",
+    "removedFromFavorites": "Removido dos favoritos"
   },
   "meta": {
     "title": "Busca de Emojis - Copiar e Colar Emojis",

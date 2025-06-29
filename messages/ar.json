@@ -2,11 +2,19 @@
   "common": {
     "search": "ابحث عن رموز تعبيرية...",
     "copied": "تم النسخ!",
+    "copy": "نسخ",
     "copyToClipboard": "نسخ إلى الحافظة",
     "categories": "الفئات",
     "allCategories": "جميع الفئات",
     "relatedEmojis": "رموز تعبيرية مماثلة",
-    "shareEmoji": "شارك هذا الرمز التعبيري"
+    "shareEmoji": "شارك هذا الرمز التعبيري",
+    "addToFavorites": "إضافة إلى المفضلة",
+    "removeFromFavorites": "إزالة من المفضلة",
+    "favorites": "المفضلة",
+    "home": "الرئيسية",
+    "noFavorites": "لا توجد مفضلات بعد",
+    "addedToFavorites": "تمت الإضافة إلى المفضلة!",
+    "removedFromFavorites": "تمت الإزالة من المفضلة"
   },
   "meta": {
     "title": "بحث الرموز التعبيرية - نسخ ولصق الرموز التعبيرية",
