@@ -1,0 +1,28 @@
+{
+  "common": {
+    "search": "इमोजी खोजें...",
+    "copied": "कॉपी हो गया!",
+    "copyToClipboard": "क्लिपबोर्ड पर कॉपी करें",
+    "categories": "श्रेणियाँ",
+    "allCategories": "सभी श्रेणियाँ",
+    "relatedEmojis": "संबंधित इमोजी",
+    "shareEmoji": "इस इमोजी को साझा करें"
+  },
+  "meta": {
+    "title": "इमोजी खोज - इमोजी कॉपी और पेस्ट करें",
+    "description": "तुरंत इमोजी खोजें, ढूंढें और कॉपी करें। {count} इमोजी के साथ सबसे अच्छा इमोजी पिकर।",
+    "emojiTitle": "{emoji} {name} इमोजी - कॉपी और पेस्ट करें",
+    "emojiDescription": "एक क्लिक से {name} इमोजी {emoji} कॉपी करें। Unicode: {unicode}। समान इमोजी और भिन्नताएँ खोजें।"
+  },
+  "categories": {
+    "smileys-emotion": "स्माइली और भावनाएँ",
+    "people-body": "लोग और शरीर",
+    "animals-nature": "जानवर और प्रकृति",
+    "food-drink": "खाना और पेय",
+    "travel-places": "यात्रा और स्थान",
+    "activities": "गतिविधियाँ",
+    "objects": "वस्तुएँ",
+    "symbols": "प्रतीक",
+    "flags": "झंडे"
+  }
+}

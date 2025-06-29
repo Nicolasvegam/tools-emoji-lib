@@ -1,0 +1,28 @@
+{
+  "common": {
+    "search": "Search emojis...",
+    "copied": "Copied!",
+    "copyToClipboard": "Copy to clipboard",
+    "categories": "Categories",
+    "allCategories": "All Categories",
+    "relatedEmojis": "Related Emojis",
+    "shareEmoji": "Share this emoji"
+  },
+  "meta": {
+    "title": "Emoji Search - Copy and Paste Emojis",
+    "description": "Search, find and copy emojis instantly. The best emoji picker with {count} emojis organized by categories.",
+    "emojiTitle": "{emoji} {name} Emoji - Copy and Paste",
+    "emojiDescription": "Copy the {name} emoji {emoji} with one click. Unicode: {unicode}. Find similar emojis and variations."
+  },
+  "categories": {
+    "smileys-emotion": "Smileys & Emotion",
+    "people-body": "People & Body",
+    "animals-nature": "Animals & Nature",
+    "food-drink": "Food & Drink",
+    "travel-places": "Travel & Places",
+    "activities": "Activities",
+    "objects": "Objects",
+    "symbols": "Symbols",
+    "flags": "Flags"
+  }
+}

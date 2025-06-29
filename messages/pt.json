@@ -1,0 +1,28 @@
+{
+  "common": {
+    "search": "Buscar emojis...",
+    "copied": "Copiado!",
+    "copyToClipboard": "Copiar para área de transferência",
+    "categories": "Categorias",
+    "allCategories": "Todas as Categorias",
+    "relatedEmojis": "Emojis Relacionados",
+    "shareEmoji": "Compartilhar este emoji"
+  },
+  "meta": {
+    "title": "Busca de Emojis - Copiar e Colar Emojis",
+    "description": "Busque, encontre e copie emojis instantaneamente. O melhor seletor de emojis com {count} emojis organizados por categorias.",
+    "emojiTitle": "{emoji} Emoji {name} - Copiar e Colar",
+    "emojiDescription": "Copie o emoji {name} {emoji} com um clique. Unicode: {unicode}. Encontre emojis similares e variações."
+  },
+  "categories": {
+    "smileys-emotion": "Carinhas e Emoções",
+    "people-body": "Pessoas e Corpo",
+    "animals-nature": "Animais e Natureza",
+    "food-drink": "Comida e Bebida",
+    "travel-places": "Viagens e Lugares",
+    "activities": "Atividades",
+    "objects": "Objetos",
+    "symbols": "Símbolos",
+    "flags": "Bandeiras"
+  }
+}
